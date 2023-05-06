@@ -1,3 +1,8 @@
 # HAMKey-layout
 
-![](./HAM-Key.jpg)
+## Schematic
+![](./plots/schematic.png)
+
+
+## Placement
+![](./plots/placement.png)
