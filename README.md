@@ -1,7 +1,7 @@
 # HAMKey-layout
 
 ## BOM
-interactive Bom: https://nigh.github.io/HAMKey-layout/
+interactive Bom: https://nigh.github.io/HAMKey-Lite-layout/
 
 ## PCB Render
 
